@@ -1,0 +1,28 @@
+name: 'Crystal Intelligent '
+favicon: null
+layout_spectrum: 0.5568316506687552
+typography_spectrum: 0.04816588736139238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.12334728520363569
+  lightness: 0.7466323082335293
+  saturation: 0.164314009482041
+  rhythmicContrast: 0.5834264534059912
+purpose: []
